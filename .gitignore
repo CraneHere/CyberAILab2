@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+*.pyzwzw
+
+# Dataset
+dataset/
+data/
+
+# Training runs
+runs/
+
+# Model weights
+*.pt
+*.onnx
+*.engine
+
+# OS files
+.DS_Store
+Thumbs.db
